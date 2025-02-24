@@ -2,7 +2,7 @@
 
 To whom this may concern,
 
-In this folder you will find a project of mine from when I was studying at UC Irvine. This project was to create a Finite State Machine representing a PPM with restricted inputs and limited outputs to focus on the fundamentals of working with VHDL within the Xilinx software.
+In this folder you will find a project of mine from when I was studying at UC Irvine. This project was to create a Finite State Machine representing a Parking Permit Machine (PPM) with restricted inputs and limited outputs to focus on the fundamentals of working with VHDL within the Xilinx software.
 
 I revised the Structural file I included within this folder, as I remembered that the Boolean Equations could have been reduced but I didn't bother to when originally creating this project. Dissatisfied upon re-opening the Structural file and seeing the Boolean Equations in how large/messy they appeared, I updated their respective portions.
 
